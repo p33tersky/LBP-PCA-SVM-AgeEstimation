@@ -97,7 +97,7 @@ This metric provides a more nuanced evaluation, ensuring that slight misclassifi
   <img src="photos/Testing Women Data on Women-Trained Model.png" width="45%">
   </p>
 
-##### Results of Age estimation
+##### Results of gender estimation
   <p align="center">
   <img src="photos/gender accuracy.png" width="45%">
   </p>
